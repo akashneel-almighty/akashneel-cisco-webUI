@@ -3,6 +3,6 @@ services:
   ashu-ui-app:
     image: akashneel-web:app$BUILD_NUMBER
     build: .
-    container_name: akashneel-newc2
+    container_name: akashneel-newc3
     ports:
     - 4321:80
